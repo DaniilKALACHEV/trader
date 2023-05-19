@@ -1,0 +1,6 @@
+//<'Trader.pbo' properties via Mikero's dos tools, dll version 8.90>
+prefix=TM\Trader;
+Mikero=DePbo.dll.7.16;
+version=Mon Feb 15 21:17:34 2021;
+//PboType=Arma Addon;
+//</properties>
